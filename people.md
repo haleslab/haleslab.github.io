@@ -12,11 +12,11 @@ I am an Assistant Professor of [Neurology](http://www.neurology.emory.edu/) at [
 
 I have post-doctoral training in biomedical engineering and cellular biology.
 
-I am a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry.
+I am a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry. I see patients with all types of cognitive disorders in the [Emory Memory Disorders Clinic](http://alzheimers.emory.edu/).
 
 ### James Webster B.S.
 
-James has developed a great repertoire of techniques and is instrumental in keeping the lab up and running. 
+James has developed a great repertoire of techniques and is instrumental in keeping the lab up and running.
 
 
 
