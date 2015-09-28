@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+We are always interested in adding new team members including volunteers, graduate students and postdoctoral fellows within the limits of our current funding.
+
 ## **Current Members**
 
 ### Chad Hales, M.D., Ph.D.
@@ -18,7 +20,13 @@ I am a board certified neurologist with subspecialty certification in Behavioral
 
 James has developed a great repertoire of techniques and is instrumental in keeping the lab up and running.
 
+### Jonathan P. Giuliano
 
+Jon is a volunteer Emory undergraduate student majoring in neuroscience and behavioral biology.
+
+### Ahmad Zeineddin
+
+Ahmad is a volunteer medical student from the International American University in Saint Lucia.
 
 ## **Collaborators**
 

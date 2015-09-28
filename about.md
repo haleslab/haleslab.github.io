@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Green neurons](https://github.com/haleslab/haleslab.github.io/blob/master/Greenneurons.png?raw=true "Primary mouse cortical neurons labeled with MAP2")
+
 ## Research Interests
 
 We are interested in understanding the basic cellular mechanisms of neurodegeneration in Alzheimer’s disease, frontotemporal dementia and other neurodegenerative disorders. The ultimate goal is to translate relevant findings into therapies for our patients. Novel approaches are needed given the large number of clinical trial failures in the neurodegenerative disease field. Current studies in the lab include:

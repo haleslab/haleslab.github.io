@@ -7,7 +7,7 @@ haleslab website
 
 1. to get haleslab.com and haleslab.net to re-direct to haleslab.org (with or without the www) modify the domain so both are redirected to a URL (e.g., http://haleslab.org).
 
-2. to build and work with the website using jekyll on a mac when there are write permission issues due to the rub version with using gem install jekyll. 
+2. to build and work with the website using jekyll on a mac when there are write permission issues due to the rub version with using gem install jekyll.
     -install homebrew ($ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
     -install a ruby version organizer ($ brew install rbenv ruby-build)
           -you can type $ rbenv commands to see the commands
@@ -19,3 +19,5 @@ haleslab website
     -give the command $ rbenv versions to see the available ruby versions
     -change the ruby version $ rbenv global 2.2.3
     -then $ gem install jekyll should work
+
+3. to add images in markdown: ![label for figure](entire url for image.png?raw=true). size of image is based on pixel size of raw image.
