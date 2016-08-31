@@ -24,9 +24,10 @@ James has developed a great repertoire of techniques and is instrumental in keep
 
 Jon is a volunteer Emory undergraduate student majoring in neuroscience and behavioral biology.
 
-### Ahmad Zeineddin
+### Tre Kinney
 
-Ahmad is a volunteer medical student from the International American University in Saint Lucia.
+Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program. He will be staying on another year as part of the Emory IMSD program. 
+
 
 ## **Collaborators**
 
@@ -68,10 +69,16 @@ Thomas is interested in understanding the genetics of Alzheimer's disease and re
 
 Zohal was in the Emory SURE program (Summer Undergraduate Research Program) and she is currently applying for medical school. She was working on culturing postmortem human neurons from autopsy research cases.
 
+### Mary Herrick
+
+Mary was a rotating graduate student in the lab during spring 2016 and she is currently in the Emory neurosciences program working on her Ph.D. She conducted immunoprecipitations from human brain with the goal of pulling down the RNA processing factor SC-35 or SRSF2.
 ### Phillip Price
 
 Phillip was a rotating graduate student in the lab and he is currently in the Emory neurosciences program working on his Ph.D. He was working on developing genomic engineering protocols for the lab.
 
+### Ahmad Zeineddin
+
+Ahmad was a volunteer medical student from the International American University in Saint Lucia. He has returned to medical school to complete his training.
 
 
 .
