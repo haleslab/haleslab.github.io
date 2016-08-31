@@ -26,7 +26,7 @@ Jon is a volunteer Emory undergraduate student majoring in neuroscience and beha
 
 ### Tre Kinney
 
-Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program. He will be staying on another year as part of the Emory IMSD program. 
+Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program. He will be staying on another year as part of the Emory IMSD program.
 
 
 ## **Collaborators**
@@ -72,6 +72,7 @@ Zohal was in the Emory SURE program (Summer Undergraduate Research Program) and 
 ### Mary Herrick
 
 Mary was a rotating graduate student in the lab during spring 2016 and she is currently in the Emory neurosciences program working on her Ph.D. She conducted immunoprecipitations from human brain with the goal of pulling down the RNA processing factor SC-35 or SRSF2.
+
 ### Phillip Price
 
 Phillip was a rotating graduate student in the lab and he is currently in the Emory neurosciences program working on his Ph.D. He was working on developing genomic engineering protocols for the lab.
