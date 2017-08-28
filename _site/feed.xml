@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hales Lab</title>
-    <description>A molecular biology laboratory dedicated to understanding the dysfunctional cellular mechanisms that lead to Alzheimer&#39;s disease, frontotemporal dementia and other neurodegenerative disorders.
+    <description>A molecular biology laboratory dedicated to understanding the dysfunctional cellular mechanisms that lead to Alzheimer&#39;s disease, frontotemporal dementia, chronic traumatic encephalopathy and other neurodegenerative disorders.
 </description>
     <link>http://haleslab.org/</link>
     <atom:link href="http://haleslab.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Oct 2015 08:52:04 -0400</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2015 08:52:04 -0400</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2017 13:08:42 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 13:08:42 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

@@ -4,8 +4,8 @@ title: Hales Lab
 #email: cmhales@emory.edu
 description: > # this means to ignore newlines until "baseurl:"
   A molecular biology laboratory dedicated to understanding the dysfunctional
-  cellular mechanisms that lead to Alzheimer's disease, frontotemporal dementia
-  and other neurodegenerative disorders.
+  cellular mechanisms that lead to Alzheimer's disease, frontotemporal dementia,
+  chronic traumatic encephalopathy and other neurodegenerative disorders.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://haleslab.org" # the base hostname & protocol for your site

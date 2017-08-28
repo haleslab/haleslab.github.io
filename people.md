@@ -20,13 +20,17 @@ I am a board certified neurologist with subspecialty certification in Behavioral
 
 James has developed a great repertoire of techniques and is instrumental in keeping the lab up and running.
 
+### Rhythm Shah Ph.D.
+
+Rhythm is a postdoctoral fellow who graduated from the University of Alabama. He completed undergraduate training at Georgia Tech.  He is working on the DOD project to characterize changes in the CTE proteome. 
+
 ### Jonathan P. Giuliano
 
-Jon is a volunteer Emory undergraduate student majoring in neuroscience and behavioral biology.
+Jon is a senior Emory undergraduate student majoring in neuroscience and behavioral biology. He is applying for medical school and will be working on his honors thesis during the 2017-2018 school year.
 
-### Tre Kinney
+### Taylor Pohl
 
-Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program. He will be staying on another year as part of the Emory IMSD program.
+Taylor is a senior Emory undergraduate student who started as a volunteer in the lab during Summer 2017 and will be staying on for the 2017-2018 school year for the 499 research class.
 
 
 ## **Collaborators**
@@ -67,7 +71,7 @@ Thomas is interested in understanding the genetics of Alzheimer's disease and re
 
 ### Zohal Ghulam-Jelani
 
-Zohal was in the Emory SURE program (Summer Undergraduate Research Program) and she is currently applying for medical school. She was working on culturing postmortem human neurons from autopsy research cases.
+Zohal was in the Emory SURE program (Summer Undergraduate Research Program). She was working on culturing postmortem human neurons from autopsy research cases.
 
 ### Mary Herrick
 
@@ -81,5 +85,10 @@ Phillip was a rotating graduate student in the lab and he is currently in the Em
 
 Ahmad was a volunteer medical student from the International American University in Saint Lucia. He has returned to medical school to complete his training.
 
+### Tre Kinney
 
-.
+Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program and Emory IMSD program during the 2016-2017 school year.
+
+### Ronnie Li
+
+Ronnie is a neurosciences graduate student who recently completed his first rotation in the lab during summer 2017. He was studying insoluble proteins associated with frontotemporal dementia due to MAPT mutations.
