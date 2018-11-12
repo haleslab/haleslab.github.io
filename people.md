@@ -10,39 +10,43 @@ We are always interested in adding new team members including volunteers, gradua
 
 ### Chad Hales, M.D., Ph.D.
 
-I am an Assistant Professor of [Neurology](http://www.neurology.emory.edu/) at [Emory University](http://www.emory.edu/). My laboratory is in the [Center for Neurodegenerative Disease](http://cnd.emory.edu/) in the Whitehead Biomedical research building on Emory's main campus.
+Chad is an Assistant Professor of [Neurology](http://www.neurology.emory.edu/) at [Emory University](http://www.emory.edu/). The laboratory is in the [Center for Neurodegenerative Disease](http://cnd.emory.edu/) in the Whitehead Biomedical research building on Emory's main campus.
 
-I have post-doctoral training in biomedical engineering and cellular biology.
+Chad has post-doctoral training in biomedical engineering and cellular biology.
 
-I am a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry. I see patients with all types of cognitive disorders in the [Emory Memory Disorders Clinic](http://alzheimers.emory.edu/).
+Chad is a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry. He sees patients with all types of cognitive disorders in the [Emory Memory Disorders Clinic](http://alzheimers.emory.edu/).
 
 ### James Webster B.S.
 
-James has developed a great repertoire of techniques and is instrumental in keeping the lab up and running.
+James is a lead research specialist who has developed a great repertoire of techniques and is instrumental in keeping the lab up and running. James has been with Emory for over 5 years.
 
-### Rhythm Shah Ph.D.
+### Laura Gutierrez-Quiceno M.D.
 
-Rhythm is a postdoctoral fellow who graduated from the University of Alabama. He completed undergraduate training at Georgia Tech.  He is working on the DOD project to characterize changes in the CTE proteome. 
+Laura joined us in June 2018 as a postdoctoral fellow. She brings research experience from prior positions and she is working on the DOD project to characterize changes in the CTE proteome.
 
-### Jonathan P. Giuliano
+### Ashlyn Grace Johnson B.S.
 
-Jon is a senior Emory undergraduate student majoring in neuroscience and behavioral biology. He is applying for medical school and will be working on his honors thesis during the 2017-2018 school year.
+Ashlyn is a graduate student in the Emory Neurosciences Graduate program. She joined us for a lab rotation in Winter 2018 and then decided to stay in the lab for her thesis work (May 2018). She is interested in astrocyte proteins that enrich in frontotemporal dementia due to MAPT mutations.
 
-### Taylor Pohl
+### Austin Nuckols
 
-Taylor is a senior Emory undergraduate student who started as a volunteer in the lab during Summer 2017 and will be staying on for the 2017-2018 school year for the 499 research class.
+Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab during Winter 2018. He then decided to join the lab under co-mentorship with Thomas Kukar. His project is utilizing IPS cells and cortical spheroids to understand the function of progranulin.  
+
+### Taylor Pohl B.S.
+
+Taylor graduated from Emory in May 2018 after volunteering in the lab for her senior project. She then stayed on as a research specialist and is working on the BrightFocus Foundation project to understand how RNA processing factors contribute to the aggregation of tau. She is interested in pursuing graduate studies in the future.
 
 
 ## **Collaborators**
 
-This is a list of our current collaborators.
+This is a list of a few of our current collaborators.
 
 
 ### [Peng Jin, Ph.D.](http://genetics.emory.edu/faculty/faculty.php?facultyid=124)
 
 Peng is a geneticist interested in trinucleotide repeat disorders, microRNA, and methylation and epigenetic changes as they related to neurodegenerative illnesses. He is particularly interested in Fragile-X associated tremor-ataxia syndrome and G4C2 expanded repeats in C9Orf72 implicated in amyotrophic lateral sclerosis and frontotemporal dementia.
 
-### [Thomas Kukar, Ph.D.](http://http://www.pharm.emory.edu/tkukar/research.html)
+### [Thomas Kukar, Ph.D.](http://pharmacology.emory.edu/kukar/)
 
 Thomas is a cellar biologist and medicinal chemist interested in understanding dysfunctional cellular mechanisms and therapies for various neurodegenerative disorders like Alzheimer's disease and frontotemporal dementia.
 
@@ -54,13 +58,10 @@ Jim is a cognitive neurologist, molecular biologist, and mentor, neuroscientist 
 
 Allan is a cognitive neurologist, neuroscientist/neuroanatomist, and mentor.
 
-### [Ann McKee, M.D.](http://http://www.bu.edu/cte/about/leadership/ann-mckee-md/)
 
-Dr. McKee has been instrumental in providing training on the pathologic diagnosis of chronic traumatic encephalopathy and for providing valuable postmortem human brain samples for use in our experiments to better understand RNA processing dysfunction in CTE and the overlap with AD.
+### [Nicholas Seyfried, Ph.D.](http://www.biochem.emory.edu/seyfried/)
 
-### [Nicholas Seyfried, DPhil.](http://proteox.genetics.emory.edu/emory/people.html)
-
-Nick is a biochemist and knows about as much as anyone should about mass spectrometry. We work closely with him and Duc Duoung for proteomics based experiments.
+Nick is a biochemist and knows about as much as anyone should about mass spectrometry. We work closely with him, Eric Dammer and Duc Duoung for proteomics based experiments.
 
 ### [Thomas Wingo, M.D.](http://wingolab.org)
 
@@ -83,12 +84,28 @@ Phillip was a rotating graduate student in the lab and he is currently in the Em
 
 ### Ahmad Zeineddin
 
-Ahmad was a volunteer medical student from the International American University in Saint Lucia. He has returned to medical school to complete his training.
+Ahmad was a volunteer medical student from the International American University in Saint Lucia. He has returned to medical school to complete his training and is now a general surgery resident in Washington D.C. .
 
 ### Tre Kinney
 
 Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program and Emory IMSD program during the 2016-2017 school year.
 
-### Ronnie Li
+### [Ronnie Li](https://www.ronnieli.com)
 
 Ronnie is a neurosciences graduate student who recently completed his first rotation in the lab during summer 2017. He was studying insoluble proteins associated with frontotemporal dementia due to MAPT mutations.
+
+### Nicholas Harbin
+
+Nick is a molecular systems pharmacology student at Emory University.  He was in the lab for a rotation during Winter 2018 and he worked on identifying important disease related proteins in CTE.  He identified a G-protein coupled receptor that may be important for regulating tau processing at the synapse.
+
+### John Giuliano
+
+Jon graduated in May 2018 from Emory after completing his honors thesis in the lab and graduating with highest honors. He is now a medical student at Duke University.
+
+### Lauran Zeineddin
+
+Lauran is a medial student at the Medical College of Georgia Athens campus and she joined Dr. Hales in the clinic for a project to optimize work flow and documentation.
+
+### Kate Heffernan
+
+Kate is a graduate student in the Emory Neurosciences Graduate program. She worked on a project to understand if hyperexcitability of neurons on MEAs could generate secreted proteins that would contribute to tau aggregation.

@@ -7,7 +7,7 @@ permalink: /Contacts/
 
 # Lab Address
 
-    515/525 Whitehead Building
+    575 Whitehead Building
     615 Michael Street NE
     Atlanta, GA 30322-1047
 

@@ -21,3 +21,5 @@ haleslab website
     -then $ gem install jekyll should work
 
 3. to add images in markdown: ![label for figure](entire url for image.png?raw=true). size of image is based on pixel size of raw image.
+
+4. to view the website build locally, make sure that Jekyll is toggled on and then go to http://localhost:3000 to view the website. 
