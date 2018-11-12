@@ -28,7 +28,7 @@ Laura joined us in June 2018 as a postdoctoral fellow. She brings research exper
 
 Ashlyn is a graduate student in the Emory Neurosciences Graduate program. She joined us for a lab rotation in Winter 2018 and then decided to stay in the lab for her thesis work (May 2018). She is interested in astrocyte proteins that enrich in frontotemporal dementia due to MAPT mutations.
 
-### Austin Nuckols
+### Austin Nuckols B.S.
 
 Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab during Winter 2018. He then decided to join the lab under co-mentorship with Thomas Kukar. His project is utilizing IPS cells and cortical spheroids to understand the function of progranulin.  
 
@@ -74,15 +74,15 @@ Thomas is interested in understanding the genetics of Alzheimer's disease and re
 
 Zohal was in the Emory SURE program (Summer Undergraduate Research Program). She was working on culturing postmortem human neurons from autopsy research cases.
 
-### Mary Herrick
+### Mary Herrick B.S.
 
 Mary was a rotating graduate student in the lab during spring 2016 and she is currently in the Emory neurosciences program working on her Ph.D. She conducted immunoprecipitations from human brain with the goal of pulling down the RNA processing factor SC-35 or SRSF2.
 
-### Phillip Price
+### Phillip Price B.S.
 
 Phillip was a rotating graduate student in the lab and he is currently in the Emory neurosciences program working on his Ph.D. He was working on developing genomic engineering protocols for the lab.
 
-### Ahmad Zeineddin
+### Ahmad Zeineddin M.D.
 
 Ahmad was a volunteer medical student from the International American University in Saint Lucia. He has returned to medical school to complete his training and is now a general surgery resident in Washington D.C. .
 
@@ -90,22 +90,26 @@ Ahmad was a volunteer medical student from the International American University
 
 Tre started as an undergraduate volunteer and then participated in the Emory 2016 SURE program and Emory IMSD program during the 2016-2017 school year.
 
-### [Ronnie Li](https://www.ronnieli.com)
+### [Ronnie Li](https://www.ronnieli.com) B.S.
 
 Ronnie is a neurosciences graduate student who recently completed his first rotation in the lab during summer 2017. He was studying insoluble proteins associated with frontotemporal dementia due to MAPT mutations.
 
-### Nicholas Harbin
+### Nicholas Harbin B.S.
 
 Nick is a molecular systems pharmacology student at Emory University.  He was in the lab for a rotation during Winter 2018 and he worked on identifying important disease related proteins in CTE.  He identified a G-protein coupled receptor that may be important for regulating tau processing at the synapse.
 
-### John Giuliano
+### John Giuliano B.S.
 
 Jon graduated in May 2018 from Emory after completing his honors thesis in the lab and graduating with highest honors. He is now a medical student at Duke University.
 
-### Lauran Zeineddin
+### Rhythm Shah Ph.D.
+
+Rhythm was a postdoctoral fellow from the University of Alabama. He was in the laboratory from in 2017 and 2018. His role was to characterize the CTE proteome and culture IPS cells for various assays.
+
+### Lauran Zeineddin B.S.
 
 Lauran is a medial student at the Medical College of Georgia Athens campus and she joined Dr. Hales in the clinic for a project to optimize work flow and documentation.
 
-### Kate Heffernan
+### Kate Heffernan B.S.
 
 Kate is a graduate student in the Emory Neurosciences Graduate program. She worked on a project to understand if hyperexcitability of neurons on MEAs could generate secreted proteins that would contribute to tau aggregation.
