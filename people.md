@@ -20,9 +20,6 @@ Chad is a board certified neurologist with subspecialty certification in Behavio
 
 James is a lead research specialist who has developed a great repertoire of techniques and is instrumental in keeping the lab up and running. James has been with Emory for over 5 years.
 
-### Laura Gutierrez-Quiceno M.D.
-
-Laura joined us in June 2018 as a postdoctoral fellow. She brings research experience from prior positions and she is working on the DOD project to characterize changes in the CTE proteome.
 
 ### Ashlyn Grace Johnson B.S.
 
@@ -32,9 +29,6 @@ Ashlyn is a graduate student in the Emory Neurosciences Graduate program. She jo
 
 Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab during Winter 2018. He then decided to join the lab under co-mentorship with Thomas Kukar. His project is utilizing IPS cells and cortical spheroids to understand the function of progranulin.  
 
-### Taylor Pohl B.S.
-
-Taylor graduated from Emory in May 2018 after volunteering in the lab for her senior project. She then stayed on as a research specialist and is working on the BrightFocus Foundation project to understand how RNA processing factors contribute to the aggregation of tau. She is interested in pursuing graduate studies in the future.
 
 
 ## **Collaborators**
@@ -113,3 +107,11 @@ Lauran is a medial student at the Medical College of Georgia Athens campus and s
 ### Kate Heffernan B.S.
 
 Kate is a graduate student in the Emory Neurosciences Graduate program. She worked on a project to understand if hyperexcitability of neurons on MEAs could generate secreted proteins that would contribute to tau aggregation.
+
+### Laura Gutierrez-Quiceno M.D.
+
+Laura joined us in June 2018 as a postdoctoral fellow. She brings research experience from prior positions and she is working on the DOD project to characterize changes in the CTE proteome. In May 2020, she left the Hales lab to start medicine internship and neurology residency.
+
+### Taylor Pohl B.S.
+
+Taylor graduated from Emory in May 2018 after volunteering in the lab for her senior project. She then stayed on as a research specialist and is working on the BrightFocus Foundation project to understand how RNA processing factors contribute to the aggregation of tau. She is interested in pursuing graduate studies in the future. In May 2019, she left the Hales lab for a position at Regeneron.
