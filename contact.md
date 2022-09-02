@@ -18,3 +18,10 @@ permalink: /Contacts/
     Atlanta, GA 30322-1047
     Phone: four04-seven2seven-two4fivefive
     email: cmhales@emory.edu
+    
+# Clinic Address
+
+    12 Executive Park Drive
+    Atlanta, Georgia 30329
+    Phone: four04-sevenseven8-3fourfourfour
+
