@@ -10,6 +10,7 @@ permalink: /about/
 
 We are interested in understanding the basic cellular mechanisms of neurodegeneration in Alzheimer’s disease, frontotemporal dementia, chronic traumatic encephalopathy and other neurodegenerative disorders. The ultimate goal is to translate relevant findings into therapies for our patients. Novel approaches are needed given the large number of clinical trial failures in the neurodegenerative disease field. Current studies in the lab include:
 
+##Basic Science Research
 
 * **Astrocyte dysfunction in FTD and other neurodegenerative disorders** - Proteomic studies demonstrated prominent enrichment of astrocyte proteins in FTD-MAPT cases, even more than observed in AD. It is unclear if this represents nonspecific inflammation or perhaps compensatory mechanisms in the brain to manage pathologic proteins. Subsets of astrocyte proteins, including end-feet may play an important role in the pathophysiology of disease. We are trying to understand how these findings impact the pathophysiology of disease.
 
