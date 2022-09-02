@@ -10,11 +10,11 @@ We are always interested in adding new team members including volunteers, gradua
 
 ### Chad Hales, M.D., Ph.D.
 
-Chad is an Assistant Professor of [Neurology](http://www.neurology.emory.edu/) at [Emory University](http://www.emory.edu/). The laboratory is in the [Center for Neurodegenerative Disease](http://cnd.emory.edu/) in the Whitehead Biomedical research building on Emory's main campus.
+Chad is an Associate Professor of [Neurology](http://www.neurology.emory.edu/) at [Emory University](http://www.emory.edu/). He is the Clinical Director of the Cognitive Neurology Program, the Memory Assessment Center Core lead for the Georgia Memory Net, and active in the [Goizueta Alzheimer's Disease Research Center](http://alzheimers.emory.edu/) and CLinical Trials Unit at Executive Park. The laboratory is in the [Center for Neurodegenerative Disease](http://cnd.emory.edu/) in the Whitehead Biomedical research building on Emory's main campus.
 
 Chad has post-doctoral training in biomedical engineering and cellular biology.
 
-Chad is a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry. He sees patients with all types of cognitive disorders in the [Emory Memory Disorders Clinic](http://alzheimers.emory.edu/).
+Chad is a board certified neurologist with subspecialty certification in Behavioral Neurology and Neuropsychiatry. He sees patients with all types of cognitive disorders in the [Emory Cognitive Neurology Clinic](https://www.emoryhealthcare.org/centers-programs/cognitive-neurology-program/index.html).
 
 ### James Webster B.S.
 
@@ -25,10 +25,6 @@ James is a lead research specialist who has developed a great repertoire of tech
 
 Ashlyn is a graduate student in the Emory Neurosciences Graduate program. She joined us for a lab rotation in Winter 2018 and then decided to stay in the lab for her thesis work (May 2018). She is interested in astrocyte proteins that enrich in frontotemporal dementia due to MAPT mutations.
 
-### Austin Nuckols B.S.
-
-Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab during Winter 2018. He then decided to join the lab under co-mentorship with Thomas Kukar. His project is utilizing IPS cells and cortical spheroids to understand the function of progranulin.  
-
 
 
 ## **Collaborators**
@@ -36,17 +32,13 @@ Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab
 This is a list of a few of our current collaborators.
 
 
-### [Peng Jin, Ph.D.](http://genetics.emory.edu/faculty/faculty.php?facultyid=124)
-
-Peng is a geneticist interested in trinucleotide repeat disorders, microRNA, and methylation and epigenetic changes as they related to neurodegenerative illnesses. He is particularly interested in Fragile-X associated tremor-ataxia syndrome and G4C2 expanded repeats in C9Orf72 implicated in amyotrophic lateral sclerosis and frontotemporal dementia.
-
 ### [Thomas Kukar, Ph.D.](http://pharmacology.emory.edu/kukar/)
 
 Thomas is a cellar biologist and medicinal chemist interested in understanding dysfunctional cellular mechanisms and therapies for various neurodegenerative disorders like Alzheimer's disease and frontotemporal dementia.
 
 ### [James Lah, M.D., Ph.D.](http://neurology.emory.edu/faculty/cognitive/lah_james.html)
 
-Jim is a cognitive neurologist, molecular biologist, and mentor, neuroscientist interested in RNA splicing and using proteomics to understand the pathogenesis of Alzheimer's disease.
+Jim is a cognitive neurologist, molecular biologist, and mentor.
 
 ### [Allan I. Levey, M.D., Ph.D.](http://neurology.emory.edu/faculty/cognitive/levey_allan.html)
 
@@ -55,7 +47,7 @@ Allan is a cognitive neurologist, neuroscientist/neuroanatomist, and mentor.
 
 ### [Nicholas Seyfried, Ph.D.](http://www.biochem.emory.edu/seyfried/)
 
-Nick is a biochemist and knows about as much as anyone should about mass spectrometry. We work closely with him, Eric Dammer and Duc Duoung for proteomics based experiments.
+Nick is a biochemist and we work closely with him, Eric Dammer and Duc Duoung in the Proteomics core for various experiments.
 
 ### [Thomas Wingo, M.D.](http://wingolab.org)
 
@@ -115,3 +107,7 @@ Laura joined us in June 2018 as a postdoctoral fellow. She brings research exper
 ### Taylor Pohl B.S.
 
 Taylor graduated from Emory in May 2018 after volunteering in the lab for her senior project. She then stayed on as a research specialist and is working on the BrightFocus Foundation project to understand how RNA processing factors contribute to the aggregation of tau. She is interested in pursuing graduate studies in the future. In May 2019, she left the Hales lab for a position at Regeneron.
+
+### Austin Nuckols B.S., M.S.
+
+Austin is an Emory Molecular Systems Pharmacology student who rotated in the lab during Winter 2018. He then decided to join the lab under co-mentorship with Thomas Kukar. His project is utilizing IPS cells and cortical spheroids to understand the function of progranulin.  He completed his master's thesis in 2022 and working in the private sector.
